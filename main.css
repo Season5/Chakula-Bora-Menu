@@ -531,6 +531,9 @@ tbody td {
 tbody td.rightBorder {
   border-right: 1px solid black;
 }
+tbody tr.bottomBorder {
+  border-bottom: 1px solid black;
+}
 tbody td:first-of-type {
   padding-right: 15px;
 }
