@@ -528,6 +528,9 @@ tbody td {
   border-top: 1px solid black;
   padding-top: 21px;
 }
+tbody td h4.textWeight {
+  font-weight: 500
+}
 tbody td.rightBorder {
   border-right: 1px solid black;
 }
